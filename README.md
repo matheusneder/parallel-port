@@ -1,5 +1,11 @@
+# Author note
+
+This project was written in 2010 and originally published in Google Code (https://code.google.com/archive/p/parallel-port/). It was migrated here for archival purposes.
+
+You probably don't want to use this project, unless you planning to run on top of olds IBM/PC machines with IEEE 1284 interface.
+
 # Parallel Port
-Legacy parallel-port project previously published on Coogle Code.
+
 Parallel-port provides a portable API for C++ and Java to get raw access to the parallel port on IBM/PC based machines.
 
 For GNU/Linux systems ParallelPort API uses parport driver, that usually comes with linux kernel (find out /dev/parport0).
