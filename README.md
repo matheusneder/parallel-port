@@ -1,8 +1,8 @@
 # Author note
 
-This project was written in 2010 and originally published in Google Code (https://code.google.com/archive/p/parallel-port/). It was migrated here for archival purposes.
+This project was written in 2010 and originally published in Google Code (https://code.google.com/archive/p/parallel-port/). 
 
-You probably don't want to use this project, unless you planning to run on top of olds IBM/PC machines with IEEE 1284 interface.
+It was migrated here for archival purposes. You probably don't want to use the code here, unless you planning to run on top of olds IBM/PC machines with IEEE 1284 interface.
 
 # Parallel Port
 
